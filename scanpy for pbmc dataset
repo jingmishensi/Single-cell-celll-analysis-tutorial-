@@ -1,0 +1,4 @@
+The tutorial was done as the authors' suggestions. I just finished the cell clustering parts and the pseudotime analysis part.
+However, there are still some errors. In the rank_genes_groups parts, the authors have already offered three kinds of statistics method:
+t-test, the wilcoxon, the logregres method.With the wilcoxon method, I met an error. Although I have already change the source code, the error
+stll hapended. 
